@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 Installation steps:
 
 - Clone the Repository
--  [Gila Test](git@github.com:alexanderpren/gila-posts-test.git)
+git@github.com:alexanderpren/gila-posts-test.git
 - Navigate to the Project Directory
   
   `cd gila-posts-test`
