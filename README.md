@@ -10,10 +10,13 @@ Currently, two official plugins are available:
 Installation steps:
 
 - Clone the Repository
-- <git@github.com>:alexanderpren/gila-posts-test.git
+-  [Gila Test](git@github.com:alexanderpren/gila-posts-test.git)
 - Navigate to the Project Directory
+  
   `cd gila-posts-test`
 - Install Dependencies using Yarn
+  
   `yarn install`
 - Run the Development Server
+  
   `yarn dev`
